@@ -1,0 +1,26 @@
+SQUAROID v25 — FINAL AUDIT & LAUNCH CHECKLIST
+
+Implemented in this release
+- Rebuilt the homepage journey intro as a full-width editorial heading and copy block; removed the visually empty left grid cell.
+- Retained exactly six journey cards and two primary CTAs in the combined Squaroid/BidandBuild section.
+- Applied the approved palette to the homepage journey and shared interactive focus states: ivory #F8F7F2, deep teal #104C4B, teal #147574, sage #E4F0EB, charcoal #263837, border #CCDAD5, muted gold #D6B77A.
+- Improved responsive grid breakpoints and card spacing; reduced-motion styles retained.
+- Added missing basic Open Graph image and Twitter card fallbacks where missing; unified theme-color metadata.
+- Preserved the fixed shared header, original founder photo assets, BidandBuild links and one WhatsApp floating contact element per page.
+- Kept production canonical URLs unset rather than guessing a domain.
+- Added clear robots/sitemap TODO comments; the empty sitemap is not ready to submit to search engines.
+
+Still required before launch
+1. Confirm the final production domain and HTTPS host.
+2. Generate sitemap URLs for the public pages and add the exact sitemap URL to robots.txt.
+3. Add canonical URLs on each indexable page.
+4. Verify social preview image URLs are absolute, publicly reachable and suitable for Open Graph.
+5. Confirm competition dates, recent-graduate eligibility, submission specs, jury, entry/payment process, official email, privacy and terms.
+6. Confirm the official Squaroid Instagram handle and WhatsApp contact.
+7. Test all pages at desktop, tablet and mobile sizes in a real browser.
+8. Run Lighthouse/PageSpeed, accessibility checks and validate structured data on the deployed domain.
+9. Configure Search Console and analytics only after consent/privacy language is reviewed.
+
+Scope notes
+- This is a static informational site. Registration, payment processing, file uploads, accounts, jury tools and saved contact forms are not implemented.
+- Static file checks are not a substitute for live browser testing.

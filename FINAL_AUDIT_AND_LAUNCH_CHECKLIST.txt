@@ -1,0 +1,31 @@
+SQUAROID FINAL WEBSITE v24 — AUDIT & LAUNCH CHECKLIST
+
+IMPLEMENTED IN THIS BUILD
+- Homepage now has one unified Squaroid + BidandBuild journey section with exactly six cards: Learn & Explore; Compete & Get Recognised; Connect & Collaborate; Showcase Your Work; Build Your Career; Discover Projects & Opportunities.
+- Exactly two main CTAs in that section: Explore Squaroid and Explore BidandBuild.
+- Removed the duplicated homepage sponsorship-contact block and repeated founder/story CTA from the homepage. The Sponsors page remains the destination for sponsorship information.
+- Standardized header navigation labels and order across all pages: Home, About, Awards 2026, Sponsors, BidandBuild, Contact. Active page gets an underline without font-size or layout changes.
+- Standardized footer across all eight HTML pages with useful links and one Powered by BidandBuild endorsement.
+- Kept one floating WhatsApp contact button per page and added responsive spacing safeguards.
+- Kept original founder portrait assets and their CSS display crops; no portrait replacement or face alteration.
+- Added final navigation/footer/journey CSS overrides and reduced-motion handling.
+- Kept canonical URLs absent rather than inventing a domain. robots.txt and sitemap.xml contain clear production-domain setup notes.
+
+STATIC CHECKS TO RUN/RESULTS ARE DOCUMENTED IN THE DELIVERY MESSAGE. These checks cannot verify visual rendering in a live browser.
+
+BEFORE PUBLIC LAUNCH
+1. Confirm the exact production domain (with or without www) and HTTPS.
+2. Add one correct canonical URL per public page, update Open Graph URL metadata if used, create a valid sitemap with absolute URLs, and add the Sitemap directive to robots.txt.
+3. Verify domain ownership in Google Search Console and submit the sitemap.
+4. Confirm official Instagram account URL and the WhatsApp contact number.
+5. Confirm competition dates, eligibility, recent-graduate window, submission file rules, final contact email, jury names, and rules for overall recognitions. Do not invent any pending facts.
+6. Have organiser/legal review the Privacy Notice and Terms against actual data collection, analytics, external links and future registration/payment processing.
+7. Test all eight pages in current Chrome, Safari and Firefox where available; test desktop, tablet and narrow mobile widths.
+8. Test keyboard navigation, focus visibility, reduced-motion mode, contrast, image alt text, mobile menu, header stability, WhatsApp button overlap and all external links.
+9. Run Lighthouse/PageSpeed and accessibility checks after deployment; compress assets further only if quality remains acceptable.
+10. Configure analytics/consent appropriately and track genuine CTA clicks and sponsor enquiries; no analytics configuration is claimed by this static package.
+
+NOT IMPLEMENTED
+- Competition registration, payments, project upload, user accounts, jury tools, saved enquiry forms, or live chat.
+- Confirmed sponsor logos or sponsor relationships.
+- Production domain canonical URLs or a populated sitemap because the domain was not provided.

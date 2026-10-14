@@ -1,0 +1,13 @@
+SQUAROID FINAL BUILD — CHANGELOG
+
+- Normalized navigation class names across pages so CSS and JavaScript use consistent selectors.
+- Unified mobile menu behavior for the header markup variants in the source package.
+- Added a final authoritative navigation style: 20px desktop links where space allows, right-aligned, semi-bold, and consistent active/hover states; responsive 18px fallback at narrower desktop widths and 20px mobile menu links.
+- Isolated header navigation from heading/3D text effects to prevent click-state typography changes.
+- Improved reduced-motion handling in the reveal script and CSS.
+- Removed invalid placeholder canonical and Open Graph URL tags until the real domain is known.
+- Removed the broken placeholder sitemap URL and added a clear launch note instead of shipping a misleading sitemap.
+- Corrected the Terms page's placeholder email link so it no longer uses a telephone URL.
+- Preserved original founder photos and portrait assets; no AI replacement images were added.
+- Kept sponsor logo cards explicitly labelled as placeholders; no sponsor is represented as confirmed.
+- Retained informational-only status messaging; no registration/payment/upload functionality is claimed.

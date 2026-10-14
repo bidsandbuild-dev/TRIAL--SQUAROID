@@ -1,0 +1,31 @@
+SQUAROID FINAL WEBSITE — LAUNCH CHECKLIST
+
+Included in this package
+- Seven informational HTML pages: Home, About, Awards 2026, Sponsors, Contact, Privacy, Terms
+- Responsive teal/off-white styling, original founder photos, navigation consistency pass
+- Mobile navigation JavaScript, reduced-motion handling, footer/internal links
+- Page titles/descriptions and social preview metadata
+
+Before publishing
+1. Confirm the final production domain and HTTPS.
+2. Add canonical URLs and Open Graph URL values using that exact domain on every page.
+3. Replace sitemap.xml with absolute URLs on the confirmed domain, then add the Sitemap directive to robots.txt.
+4. Update Organization structured data with the confirmed URL and official social profile URLs. Do not publish unverified social URLs.
+5. Verify the official Instagram handle/link.
+6. Confirm competition dates, eligibility wording, upload requirements, contact email and all rules before public promotion.
+7. Replace draft Privacy and Terms with organiser-reviewed legal text before collecting personal information or accepting entries.
+8. The website is informational only. Registration, payments, uploads, accounts, saved forms and jury tools are not implemented in this package.
+9. Test every page and menu on desktop, tablet and mobile after upload. Verify images, phone/WhatsApp links and outbound social links.
+10. Configure Google Search Console and analytics only after the production domain is live and the privacy notice reflects the actual tools used.
+
+Domain note
+The final domain was not supplied during this build. Invalid YOUR-DOMAIN-HERE canonical, sitemap and robots URLs have therefore been removed/neutralized rather than published as broken URLs. Complete steps 1–4 before requesting indexing.
+
+
+BIDANDBUILD BRAND BRIDGE
+- Confirm the BidandBuild destination URL and review the UTM parameters.
+- Confirm the wording “Powered by BidandBuild” is approved for all public materials.
+- Configure GA4/analytics separately if campaign reporting is required.
+- Do not require BidandBuild signup for competition participation.
+- Do not publish unconfirmed sponsor logos or imply partnerships.
+- Confirm the WhatsApp contact number and official Squaroid Instagram handle before launch.

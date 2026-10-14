@@ -1,0 +1,6 @@
+Squaroid logo and spacing correction (v9)
+- Removed the near-white background from squaroid-official-logo-teal.png and cropped excess canvas.
+- Set compact responsive dimensions for header and footer logo.
+- Removed CSS white background and padding from logo images.
+- Reduced accidental empty logo space without changing page content or site palette.
+- Static informational website; upload the contents of public_html to the hosting public_html directory.

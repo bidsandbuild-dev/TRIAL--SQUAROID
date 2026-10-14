@@ -1,0 +1,6 @@
+SQUAROID NAVIGATION UPDATE — v13
+- Main navigation labels Home, About, Awards 2026, Sponsors and Contact set to 20px / 600 weight.
+- Links aligned vertically and centered with consistent responsive spacing.
+- Desktop header spacing adjusted to keep links clear of logo and Partner with us CTA.
+- Mobile navigation uses the existing expandable menu and 20px stacked links.
+- Existing content, images, logo, founder cards and site styling retained.

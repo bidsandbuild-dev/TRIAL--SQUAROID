@@ -1,0 +1,8 @@
+Squaroid heading typography update
+
+- Increased heading sizes for H1, H2 and H3 throughout the website.
+- Increased heading font weight to bold/extra-bold for clearer hierarchy.
+- Retained the existing restrained 3D text shadows and teal/off-white palette.
+- Increased navigation link size and weight for improved readability.
+- Added mobile-specific sizing so headings remain legible without overflowing.
+- Existing reduced-motion rules and responsive design are retained.

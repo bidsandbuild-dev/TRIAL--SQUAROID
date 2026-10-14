@@ -1,0 +1,5 @@
+Squaroid v21 update
+
+Confirmed a visible “Powered by BidandBuild” footer endorsement linked to https://www.bidandbuild.in across all seven HTML pages. Existing footer endorsements were retained without adding duplicate rows where already present. Link includes campaign UTM parameters.
+
+This is a static informational website package. The production domain, live browser rendering, analytics attribution, and non-static functionality require separate configuration/testing.

@@ -1,0 +1,7 @@
+SQUAROID WEBSITE UPDATE V20
+
+- Replaced “Build your presence” with “Career & Practice”.
+- Added fifth BidandBuild feature card “Education”.
+- Five-card responsive section: Connect; Projects & Enquiries; Career & Practice; Education; Materials & Construction.
+- Existing four Squaroid pillars remain separate and unchanged.
+- No specific course, registration, or payment functionality is claimed.

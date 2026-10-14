@@ -1,0 +1,25 @@
+SQUAROID x BIDANDBUILD — IMPLEMENTATION NOTES
+
+Implemented in this package
+- Added a dedicated BidandBuild platform-story section to the homepage, About page, Awards 2026 page, and Sponsorship page.
+- Added clickable “Powered by BidandBuild” endorsements in the footer on every HTML page.
+- Added optional “Explore BidandBuild” links using UTM parameters: utm_source=squaroid, utm_medium=website, utm_campaign=brand_awareness.
+- Added a floating WhatsApp contact button on all seven pages using Ar. Yukta Patidar’s provided number (+91 75875 66122).
+- Added a promotion kit with draft social, college/faculty and sponsor outreach copy.
+- Added CSS for responsive platform sections and the WhatsApp floater.
+- Checked all seven HTML pages for missing local links/assets and confirmed the floater and BidandBuild links are present.
+
+Requires manual setup / confirmation
+- UTM parameters will only be reportable after analytics is configured on the destination website. No analytics integration is installed by these links alone.
+- Confirm BidandBuild approves the public “Powered by BidandBuild” wording and final destination URL.
+- Confirm the official Squaroid Instagram handle before publishing outreach.
+- Confirm WhatsApp contact number before launch.
+- No external sponsor/partner is claimed as confirmed.
+- Competition registration, payments, file uploads, user accounts and jury tools remain unimplemented.
+- The live Hostinger website was not browser-tested as part of this package build.
+
+
+V20 CONTENT UPDATE (2026-10-14)
+- Replaced generic “Build your presence” positioning with “Career & Practice” focused on professional pathways, project experience and opportunities.
+- Added a fifth BidandBuild feature card: “Education”, with general learning copy that does not promise a specific product feature.
+- Homepage BidandBuild section now has five responsive cards: Connect; Projects & Enquiries; Career & Practice; Education; Materials & Construction.

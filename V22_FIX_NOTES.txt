@@ -1,0 +1,20 @@
+Squaroid v22 — WhatsApp, BidandBuild header and footer cleanup
+
+Changes made:
+- Added a dedicated BidandBuild page (bidandbuild.html) explaining the marketplace in accurate, non-exclusive terms.
+- Added BidandBuild to the shared header navigation on the seven existing pages and the new page.
+- Added a properly fixed, high-contrast WhatsApp floater style with responsive sizing, accessible label/focus, and no layout shift. One floater per page.
+- Removed duplicate standalone footer-powered rows that caused a repeated BidandBuild endorsement at the end of some pages. The single footer endorsement remains where present.
+- Preserved original founder photos and existing competition content.
+
+QA checks performed locally:
+- All eight HTML pages have a BidandBuild navigation link.
+- All eight HTML pages have exactly one WhatsApp floater.
+- No duplicate footer-powered-row element remains.
+- Internal HTML links and local image/CSS/JS references were checked.
+- ZIP archive integrity checked after packaging.
+
+Still requires manual confirmation:
+- Test actual visual rendering in desktop/mobile browsers after upload.
+- Confirm WhatsApp number and final production domain.
+- BidandBuild outbound links open the external site; no account, lead form, analytics integration, or live chat is created by this static package.

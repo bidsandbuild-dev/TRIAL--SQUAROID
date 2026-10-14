@@ -1,0 +1,8 @@
+Squaroid v24 — final consolidation
+- Unified homepage journey under one umbrella, exactly six pathway cards and two primary CTAs.
+- Removed redundant homepage blocks that repeated sponsorship and platform messaging.
+- Standardized navigation labels/order and interaction typography across all eight pages.
+- Replaced page-specific footer variants with one shared footer design and one BidandBuild endorsement.
+- Added safe responsive rules for journey grid and WhatsApp floater; preserved reduced-motion support.
+- Kept original founder photo assets and did not invent production domain, dates, partners, or backend features.
+- Added FINAL_AUDIT_AND_LAUNCH_CHECKLIST.txt.

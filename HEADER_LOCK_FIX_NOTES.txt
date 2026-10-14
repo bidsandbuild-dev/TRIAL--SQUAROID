@@ -1,0 +1,9 @@
+SQUAROID HEADER LOCK FIX — v16
+
+- Unified header background, logo dimensions, navigation typography, spacing and CTA styling across pages.
+- Navigation is 20px on desktop and compact laptop sizes; on narrower desktop widths it scales to 18px to avoid collisions. Mobile expanded links remain 20px.
+- Hover, keyboard focus and current-page states use only a fixed underline. Text size, base colour, weight and layout do not change.
+- Normalized aria-current=page on the active navigation link across Home, About, Awards 2026, Sponsors and Contact.
+- Mobile menu retains its existing JS open-state classes.
+
+Before deployment: upload the contents of public_html to the hosting public_html directory and test desktop/mobile navigation on the live domain. This source-package check is not a live browser test.

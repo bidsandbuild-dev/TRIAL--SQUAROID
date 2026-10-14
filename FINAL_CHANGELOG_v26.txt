@@ -1,0 +1,11 @@
+SQUAROID WEBSITE — CHANGELOG v26
+
+Added a dedicated “How it works” participant guide to Awards 2026.
+- Five clear steps: check eligibility, register when registration opens, prepare 10–12 A1 sheets, submit anonymously, and follow the jury stages.
+- Explicitly states that registration and submissions are not yet open on this informational website.
+- Does not invent dates, upload formats, deadlines or a registration URL.
+- Added anchor links to categories and submission requirements.
+- Added responsive five-column / three-column / two-column / single-column layouts using the approved teal, ivory, sage and muted-gold palette.
+- Added reduced-motion support.
+
+Launch reminder: confirm competition dates, final eligibility, upload instructions, registration URL and official terms before accepting entries.

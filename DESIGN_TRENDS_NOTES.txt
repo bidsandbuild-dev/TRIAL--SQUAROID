@@ -1,0 +1,21 @@
+SQUAROID DESIGN DIRECTION — TREND REVIEW (OCTOBER 2026)
+========================================================
+
+Applied to this website:
+1. Dimensional / 3D typography — applied as restrained layered shadows on every H1/H2/H3. It adds depth while preserving selectable HTML text.
+2. Kinetic typography — hero headings and supporting copy enter with a short rise/fade animation.
+3. Architectural grid language — fine drafting grid lines in the hero and precise rules/lines in section headings.
+4. Bento-like modular cards — consistent card grid, clear hierarchy, top-edge accents and hover response.
+5. Purposeful micro-interactions — CTA hover lift, card edge reveal and keyboard focus outlines.
+6. Accessibility and performance — CSS-only effects; reduced-motion preference disables nonessential movement; no heavy 3D engine.
+
+Why not use full WebGL or a large interactive 3D scene?
+The current goal is a lightweight sponsor-focused informational site that can be uploaded to Hostinger. Heavy 3D can increase load time and maintenance. If a true interactive architectural model is desired later, add it as a lazy-loaded optional component after the static site is performing well.
+
+References consulted:
+- Figma, “Top Web design trends for 2026”: https://www.figma.com/resource-library/web-design-trends/
+- IONOS, “Web design trends for 2026”: https://www.ionos.co.uk/digitalguide/websites/web-design/webdesign-trends/
+- Envato Elements, “Web design trends for 2026”: https://elements.envato.com/learn/web-design-trends
+- We.Inc, “Website design trends in 2026”: https://we.inc/blog/website-design-trends-2026
+
+These are editorial trend roundups, not a universal statistical ranking. The implementation prioritises brand fit, legibility, mobile performance and reduced-motion accessibility over adding every trend.

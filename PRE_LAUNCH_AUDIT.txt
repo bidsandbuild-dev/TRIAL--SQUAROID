@@ -1,0 +1,28 @@
+SQUAROID WEBSITE — FINAL PRE-PUBLISH AUDIT
+
+Package pages: 7 HTML pages (Home, About, Competition, Sponsorship, Contact, Privacy, Terms).
+Brand assets: supplied logo processed to teal with transparent background; favicon generated.
+SEO: titles and descriptions present on all HTML pages; robots.txt and sitemap.xml included.
+Responsive styling: mobile breakpoints and reduced-motion handling present in CSS.
+Contacts checked:
+  Ar. Mahendra Raj Bharti — 8224987350
+  Ar. Yukta Patidar — MNIT Jaipur — 7587566122
+  Ar. Satyam Kumawat — 7737220731
+
+Competition facts checked against the supplied brief:
+  Theme: Architecture for a Better Tomorrow — People, Planet, Places, Possibilities.
+  Categories: Institutional; Housing and Residential; Commercial and Mixed Use; Cultural and Social; Urban Design and Public Realm.
+  Entry fee: Early Bird ₹299; Late Entry ₹499.
+  Submission: 10–12 A1 sheets; anonymous; individual entries only.
+  Process: initial screen Top 20 per category; Jury 2 selects Top 7; Jury 3 final presentation.
+  Category awards: Winner ₹15,000; Runner-Up ₹10,000; five Special Mentions per category; Top 20 certificates.
+  Judging weights: 20%, 20%, 15%, 15%, 15%, 10%, 5%.
+
+Still requiring organiser confirmation before public launch:
+  Competition dates, final graduate eligibility window, final upload format and file size, jury names, registration URL, final legal terms and the basis for overall recognitions.
+  Domain placeholders in robots.txt/sitemap.xml and any domain-based metadata.
+  Privacy and terms pages are draft copy; obtain review for the actual website operator.
+
+Functional limitations: static informational site only. No working registration, payment, account, upload, contact form or saved-lead system.
+Checks performed: archive contains 7 HTML pages; each has title and description; logo references and key contact/competition facts verified.
+LinkedIn profile buttons added to all three About-page co-founder cards using the URLs supplied by the user.

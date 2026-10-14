@@ -1,0 +1,10 @@
+Squaroid website v10 updates
+
+- Main hero headings standardized to large, bold display typography across pages, with mobile scaling and no transform-based clipping.
+- Removed founding-team cards from the homepage; the detailed team profiles remain in About > Meet our co-founders.
+- Added animated partner/sponsor placeholder cards to the homepage. They are placeholders, not confirmed sponsor listings.
+- Added Our Reach / Instagram section linking to https://www.instagram.com/squaroid/. Verify the handle is the official account before launch.
+- Reworked the homepage footer with Explore, Useful Information, Instagram and partnership CTA.
+- Added reduced-motion behavior for the new animations.
+
+Still informational only: no registration, payment, file upload, login, backend, or contact form submission is implemented. Replace YOUR-DOMAIN-HERE canonical/schema placeholders before launch.

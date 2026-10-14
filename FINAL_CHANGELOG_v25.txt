@@ -1,0 +1,7 @@
+SQUAROID v25 CHANGELOG
+- Fixed the empty-left-column issue in the homepage journey section by placing the eyebrow and heading in a full-width flow.
+- Improved typographic hierarchy, intro copy width, CTA alignment, card padding, card heights, grid breakpoints and palette consistency.
+- Kept exactly six journey cards and the two requested CTAs.
+- Added missing social metadata fallbacks and standardized theme colour.
+- Made sitemap/robots launch status explicit without inventing a production domain.
+- Added FINAL_AUDIT_AND_LAUNCH_CHECKLIST_v25.txt.
