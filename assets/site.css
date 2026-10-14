@@ -1020,8 +1020,8 @@ h3 { font-size:clamp(1.35rem,2vw,1.8rem) !important; }
     color:#104c4b !important; font-size:23px !important; line-height:1 !important;
   }
 }
-@media(min-width:421px) and (max-width:900px) {
-  #header .nav .squaroid-logo-link { order:1 !important; width:clamp(165px,42vw,190px) !important; }
+@media(min-width:361px) and (max-width:900px) {
+  #header .nav .squaroid-logo-link { order:1 !important; width:clamp(138px,43vw,175px) !important; }
   #header .nav > .nav-cta, #header .nav > .btn {
     display:inline-flex !important; order:2 !important; align-items:center !important; justify-content:center !important;
     flex:0 0 auto !important; min-height:40px !important; margin-left:auto !important; padding:8px 11px !important;
@@ -1030,6 +1030,6 @@ h3 { font-size:clamp(1.35rem,2vw,1.8rem) !important; }
   }
   #header .menu { order:3 !important; margin-left:0 !important; }
 }
-@media(max-width:420px) {
+@media(max-width:360px) {
   #header .nav > .nav-cta, #header .nav > .btn { display:none !important; }
 }
