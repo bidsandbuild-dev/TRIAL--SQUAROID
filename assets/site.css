@@ -979,3 +979,22 @@ img { max-width:100%; }
 @media(max-width:680px){.participant-steps{grid-template-columns:repeat(2,minmax(0,1fr))}.participant-step{padding:16px}.participant-step p{font-size:.82rem}}
 @media(max-width:420px){.participant-steps{grid-template-columns:1fr}.participant-step{padding:20px}.participant-number{margin-bottom:12px}}
 @media(prefers-reduced-motion:reduce){.participant-step{transition:none}.participant-step:hover{transform:none}}
+
+/* Typography refinement: keep display headings prominent without letting them dominate. */
+h1 { font-size:clamp(2.75rem,6.5vw,5.8rem) !important; }
+h2 { font-size:clamp(2.15rem,4.4vw,3.6rem) !important; }
+h3 { font-size:clamp(1.35rem,2vw,1.8rem) !important; }
+.hero h1, main > .hero h1 { font-size:clamp(3rem,7.2vw,6.3rem) !important; }
+.journey-intro-balanced h2 { font-size:clamp(36px,5.3vw,70px) !important; }
+.journey-card h3 { font-size:clamp(20px,1.7vw,26px) !important; }
+.participant-step h3 { font-size:clamp(1.15rem,1.4vw,1.4rem) !important; }
+@media(max-width:700px) {
+  h1 { font-size:clamp(2.15rem,8.2vw,3.2rem) !important; }
+  h2 { font-size:clamp(1.8rem,7.2vw,2.7rem) !important; }
+  h3 { font-size:clamp(1.3rem,5vw,1.65rem) !important; }
+  .hero h1, main > .hero h1 { font-size:clamp(2.15rem,8.2vw,3.2rem) !important; }
+  .journey-intro-balanced h2 { font-size:clamp(30px,6.2vw,42px) !important; }
+  .journey-card h3 { font-size:clamp(19px,4.8vw,22px) !important; }
+  header .nav .nav-links a, header .nav .navlinks a,
+  #header nav.nav-links a, #header nav.navlinks a { font-size:16px !important; }
+}
