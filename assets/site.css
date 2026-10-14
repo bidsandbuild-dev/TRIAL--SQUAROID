@@ -998,3 +998,25 @@ h3 { font-size:clamp(1.35rem,2vw,1.8rem) !important; }
   header .nav .nav-links a, header .nav .navlinks a,
   #header nav.nav-links a, #header nav.navlinks a { font-size:16px !important; }
 }
+
+/* Mobile header: use the full Squaroid wordmark and give the menu a clear touch target. */
+#header .nav .squaroid-logo-link { width:clamp(180px,18vw,235px) !important; }
+#header .nav .squaroid-logo-link img {
+  display:block !important; width:100% !important; height:auto !important; max-height:54px !important;
+  object-fit:contain !important; object-position:left center !important; background:transparent !important;
+  padding:0 !important; margin:0 !important;
+}
+@media(max-width:900px) {
+  #header .nav, #header .wrap.nav {
+    min-height:74px !important; gap:12px !important; justify-content:space-between !important;
+    padding-block:8px !important;
+  }
+  #header .nav .squaroid-logo-link { width:clamp(176px,58vw,225px) !important; }
+  #header .nav .squaroid-logo-link img { max-height:54px !important; }
+  #header .menu {
+    display:grid !important; place-items:center !important; flex:0 0 44px !important;
+    width:44px !important; height:44px !important; padding:0 !important; margin-left:auto !important;
+    border:1px solid #cbd9d3 !important; border-radius:50% !important; background:#fffefa !important;
+    color:#104c4b !important; font-size:23px !important; line-height:1 !important;
+  }
+}
