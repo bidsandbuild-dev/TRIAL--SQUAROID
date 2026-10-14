@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 170" role="img" aria-labelledby="title desc">
+<title id="title">Squaroid</title><desc id="desc">Architectural portal symbol and Squaroid wordmark in teal.</desc>
+<g transform="translate(10 8)" fill="none" stroke="#126F70" stroke-linecap="square">
+<path d="M10 145V8H147V145H10Z" stroke-width="7"/>
+<path d="M39 145V38H118V145" stroke-width="5"/>
+<path d="M39 75H118" stroke-width="4"/>
+<path d="M60 145V57H97V145" stroke-width="3"/>
+</g>
+<text x="190" y="91" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="7" fill="#126F70">SQUAROID</text>
+<text x="194" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.1" fill="#526C68">ARCHITECTURE · DESIGN · EDUCATION · COMMUNITY</text>
+</svg>

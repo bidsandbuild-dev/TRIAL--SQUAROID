@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" role="img" aria-labelledby="title"><title id="title">Squaroid</title><g fill="none" stroke="#104C4B" stroke-width="3"><path d="M8 8h42v34H8zM54 8h42v34H54zM8 46h42v34H8zM54 46h42v34H54z"/></g><g fill="#104C4B" font-family="Arial,sans-serif" font-weight="700" font-size="27" text-anchor="middle"><text x="29" y="34">S</text><text x="75" y="34">Q</text><text x="29" y="72">U</text><text x="75" y="72">A</text></g><text x="112" y="59" fill="#104C4B" font-family="Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="1">SQUAROID</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+<title id="title">Squaroid</title><desc id="desc">A contemporary architectural portal symbol and Squaroid wordmark.</desc>
+<g transform="translate(8 8)" fill="none" stroke="#126F70" stroke-linejoin="miter">
+  <path d="M8 132V8H132V132H8Z" stroke-width="5"/>
+  <path d="M30 132V30H110V110H52V52H88" stroke-width="5"/>
+  <path d="M30 74H88" stroke-width="3" opacity=".55"/>
+  <path d="M52 110V91H72" stroke-width="3" opacity=".55"/>
+</g>
+<text x="174" y="79" font-family="Georgia, 'Times New Roman', serif" font-size="61" letter-spacing="6.5" fill="#123F40">SQUAROID</text>
+<path d="M178 94H508" stroke="#126F70" stroke-width="2"/>
+<text x="178" y="119" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="2.1" fill="#536C68">ARCHITECTURE · DESIGN · EDUCATION · COMMUNITY</text>
+</svg>
