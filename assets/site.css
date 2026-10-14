@@ -1067,3 +1067,37 @@ h3 { font-size:clamp(1.35rem,2vw,1.8rem) !important; }
 .faq-answer p { margin:0; font-size:.92rem; }
 .faq-contact { margin:24px 0 0; color:#526a65; }
 .faq-contact a { color:#104c4b; font-weight:700; text-decoration:underline; text-underline-offset:3px; }
+
+/* Compact, consistent header and page rhythm across the site. */
+#header .nav .squaroid-logo-link { width:auto !important; min-width:0 !important; gap:9px !important; flex:0 0 auto !important; }
+#header .nav .squaroid-logo-link img { display:block !important; width:64px !important; height:64px !important; max-width:64px !important; max-height:64px !important; object-fit:contain !important; object-position:center !important; padding:0 !important; background:transparent !important; flex:0 0 64px !important; }
+#header .brand-wordmark { display:inline-block !important; color:#104c4b !important; font-size:clamp(14px,1.3vw,18px) !important; font-weight:800 !important; letter-spacing:.1em !important; line-height:1 !important; white-space:nowrap !important; }
+.section { padding-block:clamp(44px,5.4vw,72px) !important; }
+.banner { padding-block:clamp(34px,4vw,52px) !important; }
+.grid-3 { gap:14px; }
+.submission-detail { margin-top:12px; border-top:1px solid #cbd9d3; }
+.submission-detail summary { padding:10px 24px 8px 0; color:#104c4b; cursor:pointer; font-weight:700; }
+.submission-detail .faq-answer { padding:0 0 8px; }
+.eligibility-detail { margin-top:20px; }
+@media(max-width:900px) {
+  #header .nav .squaroid-logo-link img { width:60px !important; height:60px !important; max-width:60px !important; max-height:60px !important; flex-basis:60px !important; }
+  #header .nav .squaroid-logo-link { gap:8px !important; }
+  #header .brand-wordmark { font-size:15px !important; letter-spacing:.08em !important; }
+}
+@media(max-width:700px) {
+  .section { padding-block:40px !important; }
+  .banner { padding-block:32px !important; }
+  .hero { min-height:62svh; }
+  .hero-content { padding-block:42px !important; }
+  .hero-meta { display:none; }
+  .grid-3 { gap:10px; }
+  .tile,.contact-card,.award,.tier,.time { padding:20px !important; }
+  .faq-intro { margin-bottom:16px !important; }
+  .competition-faq-item summary { padding-block:14px !important; }
+}
+@media(max-width:420px) {
+  #header .nav .squaroid-logo-link { width:auto !important; }
+  #header .nav .squaroid-logo-link img { width:56px !important; height:56px !important; max-width:56px !important; max-height:56px !important; flex-basis:56px !important; }
+  #header .nav > .nav-cta, #header .nav > .btn { display:none !important; }
+  #header .brand-wordmark { font-size:14px !important; letter-spacing:.06em !important; }
+}
